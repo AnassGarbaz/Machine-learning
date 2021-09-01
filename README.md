@@ -19,3 +19,9 @@ Finaly, i used a pipline to choose the best Model from this 5 models.
 ## Forest fire prediction file :
 
 I used Ridge regression with grid search to predict the area that will be burned, based on some features like temperature...etc. 
+
+
+## discretization project file :
+
+I trained a simple data with just one standarization and another discretization data on different ML models, then I compared them to see which ones work best using Support Vector Machine, Decision Tree and Random Forest. 
+As i explained what discretization means, i explained models that i used and the data preprocessing step by step.
